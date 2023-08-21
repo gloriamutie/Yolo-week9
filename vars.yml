@@ -1,0 +1,7 @@
+# vars.yml
+client_image: "gloriamutie/yolo-frontend"
+backend_image: "gloriamutie/yolo-backend"
+app_folder: "/opt/yolo"
+file_folder: "/Users/gmuti/Documents/Moringa \ IPs\ yolo"
+dest_folder: "/Users/gmutie/Documents/Moringa\ Yolo_App"
+terrafom_folder: "./Stage_two/"
